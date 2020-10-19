@@ -1,0 +1,11 @@
+[2020/10/18 23:50:29] Realizando operación : ComandoListarCuentas
+[2020/10/18 23:50:29] Operación finalizada: ComandoListarCuentas
+[2020/10/18 23:50:37] Realizando operación : ComandoConsignar
+[2020/10/18 23:50:40] Operación finalizada: ComandoConsignar
+[2020/10/18 23:50:42] Realizando operación : ComandoListarCuentas
+[2020/10/18 23:50:42] Operación finalizada: ComandoListarCuentas
+[2020/10/18 23:50:48] Realizando operación : ComandoTransferir
+[2020/10/18 23:50:54] Operación finalizada: ComandoTransferir
+[2020/10/18 23:50:55] Realizando operación : ComandoListarCuentas
+[2020/10/18 23:50:55] Operación finalizada: ComandoListarCuentas
+[2020/10/18 23:51:03] Realizando operación : ComandoGenerarAuditoria

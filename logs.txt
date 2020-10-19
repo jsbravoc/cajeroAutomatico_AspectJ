@@ -1,0 +1,5 @@
+[2020/10/18 23:44:30] Realizando operación : ComandoListarCuentas
+[2020/10/18 23:44:30] Operación finalizada: ComandoListarCuentas
+[2020/10/18 23:44:44] Realizando operación : ComandoImprimirOperaciones
+[2020/10/18 23:44:44] Operación finalizada: ComandoImprimirOperaciones
+[2020/10/18 23:44:56] Realizando operación : ComandoGenerarAuditoria
